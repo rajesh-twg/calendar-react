@@ -1,0 +1,12 @@
+{
+    "calander": [
+        {
+            "id": 1,
+            "data": "meeting 1"
+        },
+        {
+            "id": 2,
+            "data": "meeting 2"
+        }
+    ]
+}
